@@ -11,7 +11,7 @@ Store your states in Git, Subversion or S3. Same with large binary files.
 
 ## Documentation
 Have you seen [the docs](http://docs.saltstack.com) lately? Documentation is not
-an afterthought with Saltstack. It's entire project unto itself.
+an afterthought with Saltstack. It's an entire project unto itself.
 
 * Need an introduction to all things Salt? Start with [the tutorials](http://docs.saltstack.com/en/latest/topics/tutorials/index.html)
 * Heard about the Reactor system? It's [right here](http://docs.saltstack.com/en/latest/topics/reactor/index.html)
