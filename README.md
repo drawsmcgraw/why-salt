@@ -29,3 +29,8 @@ and offers a central location for trusted bits.
 Deploy Active Directory systems into a public or private cloud with 
 Salt-cloud. Everything can be automated, from creating the first Domain Controller
 to joining all domain members.
+
+
+* Manage Openstack images. Automate config/customization
+* Leave the minion on the image. Free command-line PaaS when combined with GitFS for states.
+* salt-api + minion on Windows -> Automated Active Directory setups (e.g. Kerberos on-demand).
